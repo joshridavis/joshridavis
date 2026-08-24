@@ -6,5 +6,5 @@
 **AI automation:** n8n · LLM orchestration · REST APIs · webhooks · self-hosted Docker  
 **Certifications:** ISTQB Advanced Test Manager · Advanced Test Analyst · Agile Tester · Foundation  
  
-📍 Remote · Available for contract and full-time
-✉️ joshridavis@gmail.com · [LinkedIn](your-linkedin-url) · [Portfolio](https://jonathan-davis.carrd.co/)
+📍 Remote · Available for contract and full-time  
+✉️ joshridavis@gmail.com · [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/jonathanda/)) · [Portfolio](https://jonathan-davis.carrd.co/)
